@@ -1,6 +1,6 @@
 # Exercicios YOLOv8 com OpenCV
 
-Projeto em Python com sete exercicios de visao computacional usando o modelo YOLOv8 e OpenCV. Os exemplos abrangem deteccao em imagens, inspeccao de resultados, contagem em video, rastreamento, auditoria de passagens e deteccao de invasao em uma area definida.
+Projeto em Python com sete exercicios de Visão Computacional usando o modelo YOLOv8 e OpenCV. Os exemplos abrangem deteccao em imagens, inspeccao de resultados, contagem em video, rastreamento, auditoria de passagens e deteccao de invasao em uma area definida.
 
 **Autora:** Yasmin Cabrini Brancaleone
 
