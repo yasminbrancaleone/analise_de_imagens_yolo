@@ -213,3 +213,4 @@ A pasta `resultados/` ja contem os resultados produzidos pelos exercicios:
 - O modelo `yolov8n.pt` deve permanecer na raiz do projeto.
 - O desempenho pode variar conforme a resolução do video e o hardware disponível.
 - Reinicie o terminal antes de alterar o ambiente virtual, caso o Python ativo não corresponda ao criado em `venv`.
+- Este projeto tem finalidade educacional
